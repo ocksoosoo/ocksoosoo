@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 ## 💭 About Me
 
@@ -22,7 +21,7 @@ Hello! I'm Hyunock, currently preparing for a career in Front-End Development, W
 - Front-End Development (JavaScript Interaction, React, etc.)
 - Figma
 
----
+
 
 ## 📫 Contact
 
