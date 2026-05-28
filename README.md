@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/corn.png" width="150"/>
+<img src="./corn.png" width="150"/>
 
 # Hi there, welcome to my profile 👋
 
@@ -27,4 +27,3 @@ Hello! I'm Hyunock, currently preparing for a career in Front-End Development, W
 ## 📫 Contact
 
 - Email: [ryeohwin9@gmail.com](mailto:ryeohwin9@gmail.com)
-```
